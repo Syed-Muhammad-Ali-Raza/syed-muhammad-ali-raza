@@ -18,3 +18,6 @@ Here are the primary skills that I possess:
 
 ### Social Links 
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/syed-muhammad-ali-raza-9b6215146)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/syedmuhammadalirazaa)
+
