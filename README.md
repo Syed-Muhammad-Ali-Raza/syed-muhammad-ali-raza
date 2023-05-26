@@ -5,15 +5,15 @@ Hola! My name is Syed Muhammad Ali Raza, and I am a web developer with a strong 
 ###  Skills
 Here are the primary skills that I possess:
 
-HTML: I have a deep understanding of HTML and can create well-structured and semantically correct markup for web pages.
+  HTML: I have a deep understanding of HTML and can create well-structured and semantically correct markup for web pages.
 
-CSS: I am proficient in CSS and can design and style web pages to create visually appealing and user-friendly interfaces.
+  CSS: I am proficient in CSS and can design and style web pages to create visually appealing and user-friendly interfaces.
 
-Bootstrap: I have experience working with Bootstrap, a popular front-end framework, and can utilize its components and grid system to create responsive and mobile-friendly websites.
+  Bootstrap: I have experience working with Bootstrap, a popular front-end framework, and can utilize its components and grid system to create responsive and mobile-friendly websites.
 
-JavaScript: I am familiar with JavaScript and can use it to enhance the functionality and interactivity of web pages. I have a good understanding of DOM manipulation, event handling, and AJAX.
+  JavaScript: I am familiar with JavaScript and can use it to enhance the functionality and interactivity of web pages. I have a good understanding of DOM manipulation, event handling, and                 AJAX.
 
-React: I have knowledge of React, a powerful JavaScript library for building user interfaces. I can create reusable components, manage state, and handle data flow in React applications.
+  React: I have knowledge of React, a powerful JavaScript library for building user interfaces. I can create reusable components, manage state, and handle data flow in React applications.
 
 
 ### Social Links 
