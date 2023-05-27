@@ -21,7 +21,7 @@ I'm always eager to explore new opportunities and collaborate with like-minded i
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/syed-muhammad-ali-raza-9b6215146)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/syedmuhammadalirazaa)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:smaliraza412@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your_twitter_handle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/syed_m_aliraza)
 [![SoloLearn](https://img.shields.io/badge/-SoloLearn-FF6B00?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/8955049)
 
 
