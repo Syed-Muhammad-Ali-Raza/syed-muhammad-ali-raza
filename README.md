@@ -1,10 +1,10 @@
-# Hola! 👋 Welcome to my GitHub repository!
+# Hola! Welcome to my GitHub repository!
 I'm Syed Muhammad Ali Raza, a passionate web developer with expertise in HTML, CSS, Bootstrap, JavaScript, and React. I have a strong background in creating engaging and interactive web experiences. With a Bachelor of Science degree in Computer Science from the prestigious University of Engineering and Technology, I bring a solid foundation of knowledge to my projects.
 
-## 🚀 What I Do
+## What I Do
 As a web developer, my primary focus is on building stunning and user-friendly websites that leave a lasting impression. With a meticulous approach to bug fixing, I ensure that every line of code is optimized for seamless functionality.
 
-## 💼 Skills
+## Skills
 
 Here are some of the key skills I possess:
 
@@ -15,10 +15,10 @@ Here are some of the key skills I possess:
 - **Problem Solving**: My engineering background has equipped me with strong problem-solving and critical thinking skills, which I apply to overcome challenges in the development process.
 - **Continuous Learning**: I am always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
-## 🎓 Education
+## Education
 Bachelor of Science in Computer Science, University of Engineering and Technology.
 
-## 💻 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
@@ -28,10 +28,10 @@ Here are some of the projects I've worked on:
 - **Task Management App**: Collaborated with a team to build a task management application using Vue.js and Firebase for real-time data synchronization.
 
 
-## 💡 Let's Collaborate!
+##  Let's Collaborate!
 I'm always eager to explore new opportunities and collaborate with like-minded individuals. If you're looking for a dedicated web developer to bring your ideas to life or work on exciting projects together, feel free to reach out. I love taking on new challenges and contributing to innovative solutions.
 
-## 📫 Get in Touch
+##  Get in Touch
 
 
 [![](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/syed-muhammad-ali-raza-9b6215146)
