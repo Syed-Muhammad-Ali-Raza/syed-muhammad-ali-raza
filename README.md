@@ -1,34 +1,35 @@
-# Hola! Welcome to my GitHub repository!
-I'm Syed Muhammad Ali Raza, a passionate web developer with expertise in HTML, CSS, Bootstrap, JavaScript, and React. I have a strong background in creating engaging and interactive web experiences. With a Bachelor of Science degree in Computer Science from the prestigious University of Engineering and Technology, I bring a solid foundation of knowledge to my projects.
-
-## What I Do
-As a web developer, my primary focus is on building stunning and user-friendly websites that leave a lasting impression. With a meticulous approach to bug fixing, I ensure that every line of code is optimized for seamless functionality.
-
+## Hola! Welcome to my GitHub repository!
+I'm Syed Muhammad Ali Raza, a passionate web developer with expertise in a wide range of technologies including HTML, CSS, Bootstrap, JavaScript, React, Angular, Material UI, and Tailwind CSS. I have a strong background in creating engaging and interactive web experiences. With a Bachelor of Science degree in Computer Science and currently pursuing a Master's degree in Computer Science from the prestigious University of Engineering and Technology, Lahore, I bring a solid foundation of knowledge to my projects.
+What I Do
+As a web developer, my primary focus is on building stunning and user-friendly websites that leave a lasting impression. I specialize in creating responsive and dynamic web applications, admin panels, content management systems (CMS), and landing pages. With a meticulous approach to bug fixing, I ensure that every line of code is optimized for seamless functionality.
 ## Skills
-
 Here are some of the key skills I possess:
 
-- **Web Development**: I am proficient in front-end web technologies such as HTML, CSS, and JavaScript. I enjoy building interactive and user-friendly websites using modern frameworks like React and Vue.js.
-- **Bug Fixing & Debugging**: I have a keen eye for detail, which enables me to identify and fix bugs efficiently in both front-end and back-end code. Debugging is a challenge I embrace wholeheartedly.
-- **User Interface (UI) Design**: Crafting visually appealing and intuitive user interfaces is one of my passions. I strive to create designs that enhance the overall user experience.
-- **Version Control**: I am experienced in using Git and GitHub for version control, collaboration, and managing project repositories.
-- **Problem Solving**: My engineering background has equipped me with strong problem-solving and critical thinking skills, which I apply to overcome challenges in the development process.
-- **Continuous Learning**: I am always eager to learn new technologies and stay up-to-date with the latest trends in web development.
+Web Development: I am proficient in front-end web technologies such as HTML, CSS, and JavaScript. I enjoy building interactive and user-friendly websites using modern frameworks like React and Angular.
+CSS Frameworks: Experienced in using Bootstrap, Material UI, and Tailwind CSS for rapid and responsive web development.
+Bug Fixing & Debugging: I have a keen eye for detail, which enables me to identify and fix bugs efficiently in both front-end and back-end code. Debugging is a challenge I embrace wholeheartedly.
+User Interface (UI) Design: Crafting visually appealing and intuitive user interfaces is one of my passions. I strive to create designs that enhance the overall user experience.
+Version Control: I am experienced in using Git and GitHub for version control, collaboration, and managing project repositories.
+Problem Solving: My engineering background has equipped me with strong problem-solving and critical thinking skills, which I apply to overcome challenges in the development process.
+Continuous Learning: I am always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
 ## Education
-Bachelor of Science in Computer Science, University of Engineering and Technology.
+
+Master of Science in Computer Science (In Progress), University of Engineering and Technology, Lahore
+Bachelor of Science in Computer Science, University of Engineering and Technology
 
 ## Projects
-
 Here are some of the projects I've worked on:
 
-- **E-Commerce Website**: Developed a fully functional e-commerce website using React and integrated payment gateways for secure transactions.
-- **Bug Tracking System**: Created a bug tracking system that allows users to report and track issues in software projects. Built with Node.js, Express, and MongoDB.
-- **Personal Portfolio**: Designed and developed my personal portfolio website to showcase my skills, projects, and achievements.
-- **Task Management App**: Collaborated with a team to build a task management application using Vue.js and Firebase for real-time data synchronization.
+- E-Commerce Website: Developed a fully functional e-commerce website using React and integrated payment gateways for secure transactions.
+- Admin Panel: Created a comprehensive admin panel using Angular, allowing efficient management of website content and user data.
+- CMS Website: Built a content management system using React, enabling easy content creation and management for non-technical users.
+- Landing Pages: Designed and developed multiple responsive landing pages for various clients, optimizing for conversions and user engagement.
+- Bug Tracking System: Created a bug tracking system that allows users to report and track issues in software projects. Built with Node.js, Express, and MongoDB.
+- Personal Portfolio: Designed and developed my personal portfolio website to showcase my skills, projects, and achievements.
 
 
-##  Let's Collaborate!
+## Let's Collaborate!
 I'm always eager to explore new opportunities and collaborate with like-minded individuals. If you're looking for a dedicated web developer to bring your ideas to life or work on exciting projects together, feel free to reach out. I love taking on new challenges and contributing to innovative solutions.
 
 ##  Get in Touch
