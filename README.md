@@ -7,7 +7,12 @@
 
 ## **GitHub Stats** 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-muhammad-ali-raza&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-muhammad-ali-raza&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-muhammad-ali-raza&show_icons=true&theme=radical)                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-muhammad-ali-raza&layout=compact&theme=radical) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=syed-muhammad-ali-raza&color=red&style=flat-square)
+
+
+
 
 ---
 
