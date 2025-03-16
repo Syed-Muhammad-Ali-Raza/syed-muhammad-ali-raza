@@ -44,7 +44,6 @@ Here are some of the projects I’ve worked on:
 ### **E-Commerce Website**
 - **Description**: Developed a fully functional e-commerce platform with secure payment gateways.  
 - **Tech Stack**: React, Node.js, MongoDB  
-- **Live Demo**: [View Project](#)  
 
 ### **Admin Panel**
 - **Description**: Built a comprehensive admin panel for content and user management.  
