@@ -1,7 +1,7 @@
+##  Inhale Confidence, Exhale Doubt.
 
-# **Frontend Developer** 
 
- Hi there! I’m a **Frontend Developer** with a passion for building **responsive**, **user-friendly**, and **visually stunning** web applications. I specialize in creating seamless user experiences using modern web technologies.
+ Hi there! I’m a **Software Developer Engineer** with a passion for building **responsive**, **user-friendly**, and **visually stunning** web applications. I specialize in creating seamless user experiences using modern web technologies.
 
 ---
 
@@ -36,33 +36,6 @@
 - Problem Solving, Team Collaboration, Continuous Learning  
 
 ---
-
-## **Projects** 🛠️
-
-Here are some of the projects I’ve worked on:
-
-### **E-Commerce Website**
-- **Description**: Developed a fully functional e-commerce platform with secure payment gateways.  
-- **Tech Stack**: React, Node.js, MongoDB  
-
-### **Admin Panel**
-- **Description**: Built a comprehensive admin panel for content and user management.  
-- **Tech Stack**: Angular, Material UI  
-
-### **CMS Website**
-- **Description**: Created a content management system for easy content updates.  
-- **Tech Stack**: React, Tailwind CSS  
-
-### **Landing Pages**
-- **Description**: Designed high-conversion landing pages for various clients.  
-- **Tech Stack**: HTML, CSS, JavaScript  
-
-
-### **Personal Portfolio**
-- **Description**: Designed and developed my portfolio to showcase my skills and projects.  
-- **Tech Stack**: React, Tailwind CSS  
-
-
 ---
 
 ## **Tech Stack** 🛠️
