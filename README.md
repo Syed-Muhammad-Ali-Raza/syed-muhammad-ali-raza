@@ -29,13 +29,6 @@
 - **Responsive Design**: Mobile-first approach  
 - **Animation**: CSS Animations, Framer Motion  
 
-### **Version Control**
-- Git, GitHub, GitLab  
-
-### **Soft Skills**
-- Problem Solving, Team Collaboration, Continuous Learning  
-
----
 ---
 
 ## **Tech Stack** 🛠️
