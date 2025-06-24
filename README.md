@@ -11,9 +11,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syed-muhammad-ali-raza&color=red&style=flat-square)
 
-
-
-
 ---
 
 ## **Skills** 💻
@@ -23,11 +20,6 @@
 - **Frameworks/Libraries**: React.js, Angular  
 - **CSS Frameworks**: Bootstrap, Tailwind CSS, Material UI  
 - **Tools**: Webpack, Babel, NPM/Yarn  
-
-### **UI/UX Design**
-- **Prototyping**: Figma, Adobe XD  
-- **Responsive Design**: Mobile-first approach  
-- **Animation**: CSS Animations, Framer Motion  
 
 ---
 
@@ -39,27 +31,6 @@ Here’s a quick overview of the technologies I work with:
 
 ---
 
-
-
-## **Featured Repositories** 🌟
-
-Here are some of my featured repositories:
-
-### **E-Commerce Website**
-- **Description**: A fully functional e-commerce platform with secure payment gateways.  
-- **Tech Stack**: React
-
-
-### **Admin Panel**
-- **Description**: A comprehensive admin panel for content and user management.  
-- **Tech Stack**: Angular, Material UI  
-
-
-### **Personal Portfolio**
-- **Description**: My personal portfolio showcasing my skills and projects.  
-- **Tech Stack**: React, Tailwind CSS  
-
----
 
 ## **Let’s Collaborate!** 
 
