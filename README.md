@@ -13,16 +13,6 @@
 
 ---
 
-## **Skills** 💻
-
-### **Frontend Development**
-- **Languages**: HTML, CSS, JavaScript (ES6+)  
-- **Frameworks/Libraries**: React.js, Angular  
-- **CSS Frameworks**: Bootstrap, Tailwind CSS, Material UI  
-- **Tools**: Webpack, Babel, NPM/Yarn  
-
----
-
 ## **Tech Stack** 🛠️
 
 Here’s a quick overview of the technologies I work with:
