@@ -2,7 +2,7 @@
 
 #  Hola, I'm Syed Muhammad Ali Raza
 
-##  **Software Developer Engineer** | **Full-Stack Developer** | **UI/UX Enthusiast**
+##  **Software Developer Engineer** | **Frontend Developer** | **UI/UX Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Inhale+Confidence%2C+Exhale+Doubt;Building+Amazing+Web+Experiences;Turning+Ideas+Into+Reality;Code+is+Poetry+in+Motion" alt="Typing SVG" />
 
