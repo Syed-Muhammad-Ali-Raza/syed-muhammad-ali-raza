@@ -1,161 +1,217 @@
+<!-- ============================================================
+     SYED MUHAMMAD ALI RAZA — GitHub Profile README
+     SEO · AEO · AI-Search Optimized | v2.0
+     ============================================================ -->
+
+<!-- ✦ STRUCTURED DATA — AI & Search Engine Comprehension ✦
+     JSON-LD schema helps Google, Bing, Perplexity, and LLMs
+     correctly understand who this person is and what they do.
+-->
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Syed Muhammad Ali Raza",
+  "alternateName": "syed-muhammad-ali-raza",
+  "jobTitle": "Software Developer Engineer",
+  "description": "Frontend Developer and UI/UX Enthusiast based in Pakistan, specializing in React, Next.js, TypeScript, and modern web application development.",
+  "url": "https://github.com/syed-muhammad-ali-raza",
+  "sameAs": [
+    "https://pk.linkedin.com/in/syed-muhammad-ali-raza",
+    "https://twitter.com/syed_m_aliraza",
+    "https://dev.to/syedmuhammadaliraza"
+  ],
+  "knowsAbout": ["React", "Next.js", "TypeScript", "JavaScript", "Frontend Development", "UI/UX Design", "Redux", "Tailwind CSS"],
+  "nationality": "Pakistani",
+  "email": "smaliraza412@gmail.com"
+}
+</script>
+-->
+
 <div align="center">
 
-#  Hola, I'm Syed Muhammad Ali Raza
+<!-- ─── HERO TERMINAL BLOCK ─── -->
 
-##  **Software Developer Engineer** | **Frontend Developer** | **UI/UX Enthusiast**
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ~/syed-muhammad-ali-raza  •  main  ✓                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  $ whoami                                                   │
+│  > Syed Muhammad Ali Raza                                   │
+│                                                             │
+│  $ cat role.txt                                             │
+│  > Software Developer Engineer                              │
+│  > Frontend Developer · UI/UX Enthusiast                    │
+│                                                             │
+│  $ echo $LOCATION                                           │
+│  > Pakistan 🇵🇰                                             │
+│                                                             │
+│  $ ./status.sh                                              │
+│  > Open to new opportunities ✓                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Inhale+Confidence%2C+Exhale+Doubt;Building+Amazing+Web+Experiences;Turning+Ideas+Into+Reality;Code+is+Poetry+in+Motion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=Building+interfaces+users+love+%E2%9C%93;React+%7C+Next.js+%7C+TypeScript+%7C+Angular;Clean+code.+Pixel-perfect+UI.+Real+results.;Inhale+confidence%2C+exhale+doubt." alt="Syed Muhammad Ali Raza — Frontend Developer & Software Engineer typing animation" />
 
 </div>
 
 ---
 
-##  **About Me**
+## Who Is Syed Muhammad Ali Raza?
+
+> **Software Developer Engineer** with deep expertise in modern frontend development. I build responsive, accessible, and high-performance web applications using **React**, **Next.js**, and **TypeScript**. Based in **Pakistan**, open to remote collaboration worldwide.
+
+I specialize in translating design systems into production-grade components, optimizing Core Web Vitals, and leading frontend architecture decisions. My work sits at the intersection of **engineering rigor** and **design sensibility**.
+
+---
+
+## Technical Expertise
+
+### Core Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript (ES2024+) · HTML5 · CSS3 |
+| **Frameworks** | React 18 · Next.js 14 · Angular 17 |
+| **Styling** | Tailwind CSS · Ant Design · Mantine · Radix UI · Bootstrap |
+| **State & Data** | Redux Toolkit · RTK Query · Context API |
+| **Tooling** | Git · Vite · Webpack · ESLint · Prettier |
+
+### What I Build
 
 ```typescript
-const developer = {
-  name: "Syed Muhammad Ali Raza",
-  role: "Software Developer Engineer",
-  passion: "Creating responsive, user-friendly, and visually stunning web applications",
-  location: "Pakistan",
-  availability: "Open to new opportunities",
-  mindset: "Inhale Confidence, Exhale Doubt"
-};
+/**
+ * @author  Syed Muhammad Ali Raza
+ * @focus   Frontend Engineering · UI/UX Design Systems
+ * @version 2.0.0
+ */
 
-// Always learning, always building, always improving
+interface SyedMuhammadAliRaza {
+  // Core Engineering
+  languages    : ["TypeScript", "JavaScript", "HTML5", "CSS3"];
+  frameworks   : ["React", "Next.js", "Angular"];
+  styling      : ["Tailwind CSS", "Ant Design", "Mantine", "Radix UI"];
+  state        : ["Redux Toolkit", "RTK Query", "Zustand"];
+
+  // What I Deliver
+  builds       : ["SPAs", "SSR Apps", "Design Systems", "Component Libraries"];
+  optimizes    : ["Core Web Vitals", "Bundle Size", "Accessibility", "SEO"];
+  believes_in  : ["Clean Architecture", "DRY Principles", "User-First Design"];
+
+  // Right Now
+  learning     : ["React Server Components", "Web Performance APIs"];
+  available    : true;
+  timezone     : "PKT (UTC+5)";
+}
 ```
 
 ---
 
-##  **GitHub Analytics**
+## GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-muhammad-ali-raza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+![Syed Muhammad Ali Raza GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-muhammad-ali-raza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-muhammad-ali-raza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+![Syed Muhammad Ali Raza Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-muhammad-ali-raza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syed-muhammad-ali-raza&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF)
-
-![Profile Views](https://komarev.com/ghpvc/?username=syed-muhammad-ali-raza&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![Syed Muhammad Ali Raza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syed-muhammad-ali-raza&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
-##  **Tech Arsenal**
+## Skill Proficiency
 
-### **Frontend Development**
+```
+React / Next.js       ████████████████████░   95%
+TypeScript            ███████████████████░░   90%
+JavaScript (ES+)      ████████████████████░   95%
+Tailwind CSS          ████████████████████░   92%
+Angular               ████████████████░░░░░   80%
+Redux Toolkit         ████████████████░░░░░   82%
+UI/UX Design          ███████████████░░░░░░   75%
+Performance Optim.    ████████████████░░░░░   80%
+```
+
+---
+
+## What Separates My Work
+
+**Responsive by default** — Every component I build works flawlessly from 320px to 4K. No afterthought breakpoints, no layout breaks.
+
+**Performance-obsessed** — I treat Lighthouse scores as acceptance criteria: code splitting, lazy loading, image optimization, and minimal render-blocking resources are part of every delivery.
+
+**Accessible and inclusive** — WCAG 2.1 AA compliance isn't optional. Semantic HTML, ARIA roles, keyboard navigation, and screen reader compatibility are built in from day one.
+
+**Design-system fluent** — I've worked across Ant Design, Mantine, Radix UI, and custom token-based systems. I know when to extend a design system and when to build from scratch.
+
+---
+
+## Activity Graph
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-</div>
-
-### **Styling & UI Libraries**
-<div align="center">
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-FFFFFF?style=for-the-badge&logo=radixui&logoColor=black)
-
-</div>
-
-### **State Management & Tools**
-<div align="center">
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=googlesites&logoColor=white)
+![Syed Muhammad Ali Raza GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syed-muhammad-ali-raza&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
 
 </div>
 
 ---
 
-##  **What I Do Best**
+## Achievements
 
 <div align="center">
 
-|  **Frontend Development** |  **UI/UX Design** |  **Performance Optimization** |
-|:---:|:---:|:---:|
-| Building responsive, interactive web applications | Creating intuitive and beautiful user interfaces | Optimizing applications for speed and efficiency |
-| Modern React/Next.js development | User experience research and design | Code splitting and lazy loading |
-| Component-based architecture | Responsive design principles | Bundle optimization and caching |
+![Syed Muhammad Ali Raza GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syed-muhammad-ali-raza&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12)
+
+![Profile Views](https://komarev.com/ghpvc/?username=syed-muhammad-ali-raza&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-##  **Recent Activity**
+## Connect With Me
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syed-muhammad-ali-raza&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
+I'm actively looking for **frontend engineering** and **full-stack** opportunities — freelance, contract, or full-time.
 
----
-
-##  **Achievements & Stats**
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=syed-muhammad-ali-raza&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-##  **Fun Facts**
-
--  **Passionate** about clean code and best practices
--  **Design enthusiast** who believes in the power of good UI/UX
--  **Always learning** new technologies and frameworks
--  **Problem solver** who loves tackling complex challenges
--  **Team player** who thrives in collaborative environments
+| Platform | Handle |
+|---|---|
+| 📧 **Email** | [smaliraza412@gmail.com](mailto:smaliraza412@gmail.com) |
+| 💼 **LinkedIn** | [syed-muhammad-ali-raza](https://pk.linkedin.com/in/syed-muhammad-ali-raza) |
+| 🐦 **Twitter / X** | [@syed\_m\_aliraza](https://twitter.com/syed_m_aliraza) |
+| ✍️ **Dev.to Blog** | [syedmuhammadaliraza](https://dev.to/syedmuhammadaliraza) |
+| 📘 **Facebook** | [syedmuhammadalirazaa](https://www.facebook.com/syedmuhammadalirazaa) |
+| 🎓 **Academia.edu** | [UET Profile](https://uet.academia.edu/SyedMuhammadAliRaza) |
+| 🏆 **SoloLearn** | [Profile #8955049](https://www.sololearn.com/profile/8955049) |
 
 ---
 
-##  **Let's Connect & Collaborate!**
+## Frequently Asked Questions
 
-<div align="center">
+**Q: What kind of projects does Syed Muhammad Ali Raza work on?**  
+A: I specialize in modern web applications — SPAs, SSR apps with Next.js, component libraries, and design system implementations. I'm equally comfortable working on greenfield projects and improving existing codebases.
 
-I'm always excited to work on **new challenges** and **innovative projects**. If you're looking for a dedicated developer to bring your ideas to life, let's connect!
+**Q: Is Syed Muhammad Ali Raza available for remote work?**  
+A: Yes. I'm based in Pakistan (PKT, UTC+5) and regularly collaborate with teams across Europe, the Middle East, and North America.
 
-</div>
+**Q: What makes your frontend code different?**  
+A: I build with performance, accessibility, and maintainability as first-class requirements — not afterthoughts. Every PR I open is tested, typed, documented, and respects the project's existing conventions.
 
-###  **Get in Touch**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-muhammad-ali-raza)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syedmuhammadalirazaa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syed_m_aliraza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaliraza412@gmail.com)
-
-</div>
-
-<div align="center">
-
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-FF6B00?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/8955049)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/syedmuhammadaliraza)
-[![Medium](https://img.shields.io/badge/Academia.edu-8C4B4E?style=for-the-badge&logo=academia.edu&logoColor=white)](https://uet.academia.edu/SyedMuhammadAliRaza)
-
-</div>
+**Q: Do you do UI/UX design as well as development?**  
+A: Yes. I work closely with design tools and can implement and refine designs, create component specs, and bridge the gap between Figma designs and production code.
 
 ---
 
 <div align="center">
 
-###  **"Inhale Confidence, Exhale Doubt"** 
+```
+// Last updated: 2025  •  Always open to interesting problems.
+console.log("Let's build something worth using.");
+```
 
-*Building the future, one line of code at a time*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+*Inhale confidence. Exhale doubt. Ship great software.*
 
 </div>
