@@ -186,7 +186,7 @@ I'm actively looking for **frontend engineering** and **full-stack** opportuniti
 | 📘 **Facebook** | [syedmuhammadalirazaa](https://www.facebook.com/syedmuhammadalirazaa) |
 | 🎓 **Academia.edu** | [UET Profile](https://uet.academia.edu/SyedMuhammadAliRaza) |
 | 🏆 **SoloLearn** | [Profile #8955049](https://www.sololearn.com/profile/8955049) |
-
+|  🐦**mastodon**  |  <a rel="me" href="https://mastodon.social/@syedmuhammadaliraza">Mastodon</a>|
 ---
 
 ## Frequently Asked Questions
